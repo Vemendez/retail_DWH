@@ -36,10 +36,10 @@ The Data Warehouse includes the following tables:
 - **DimTime**: Captures temporal data for time-based analysis.
 
 ### ER Diagram
-[ER Diagram](DWH_ERD.erdplus): Import it at [erdplis](https://erdplus.com/)
+[ER Diagram](DWH_ERD.erdplus): Import it at [erdplus](https://erdplus.com/)
 
 ### Relational Schema
-[Relational Schema](DWH_RELATIONAL_SCHEMA.erdplus): Import it at https://erdplus.com/
+[Relational Schema](DWH_RELATIONAL_SCHEMA.erdplus): Import it at [erdplus](https://erdplus.com/)
 
 ---
 
